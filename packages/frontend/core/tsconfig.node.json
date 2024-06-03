@@ -14,7 +14,7 @@
   "include": [".webpack/*.ts"],
   "references": [
     {
-      "path": "../../../tools/cli"
+      "path": "../../../webpack/cli"
     },
     {
       "path": "../../common/env"

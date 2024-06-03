@@ -49,7 +49,7 @@
     "paths": {
       "@affine/core/*": ["./packages/frontend/core/src/*"],
       "@affine/core": ["./packages/frontend/core/src/index.ts"],
-      "@affine/cli/*": ["./tools/cli/src/*"],
+      "@affine/cli/*": ["./webpack/cli/src/*"],
       "@affine/server/*": ["./packages/backend/server/src/*"],
       "@affine/component": ["./packages/frontend/component/src/index"],
       "@affine/component/*": [
@@ -63,8 +63,6 @@
       "@affine/env/*": ["./packages/common/env/src/*"],
       "@affine/graphql": ["./packages/frontend/graphql/src"],
       "@affine/electron/scripts/*": ["./packages/frontend/electron/scripts/*"],
-      "@affine-test/kit/*": ["./tests/kit/*"],
-      "@affine-test/fixtures/*": ["./tests/fixtures/*"],
       "@toeverything/infra": ["./packages/common/infra/src"],
       "@affine/native": ["./packages/frontend/native/index.d.ts"],
       "@affine/native/*": ["./packages/frontend/native/*"],
@@ -116,7 +114,7 @@
     },
     // Tools
     {
-      "path": "./tools/cli"
+      "path": "./webpack/cli"
     },
     // Tests
     {

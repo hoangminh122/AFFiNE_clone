@@ -28,7 +28,6 @@
     "zod": "^3.22.4"
   },
   "devDependencies": {
-    "@affine-test/fixtures": "workspace:*",
     "@affine/templates": "workspace:*",
     "@blocksuite/block-std": "0.15.0-canary-202405310802-eab4a2a",
     "@blocksuite/presets": "0.15.0-canary-202405310802-eab4a2a",

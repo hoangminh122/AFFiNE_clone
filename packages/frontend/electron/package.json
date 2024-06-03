@@ -23,7 +23,6 @@
   },
   "main": "./dist/main.js",
   "devDependencies": {
-    "@affine-test/kit": "workspace:*",
     "@affine/component": "workspace:*",
     "@affine/core": "workspace:*",
     "@affine/env": "workspace:*",

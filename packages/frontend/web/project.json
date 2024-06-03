@@ -14,7 +14,7 @@
       ],
       "inputs": [
         "{projectRoot}/**/*",
-        "{workspaceRoot}/tools/**/*",
+        "{workspaceRoot}/webpack/**/*",
         "{workspaceRoot}/packages/frontend/core/**/*",
         "{workspaceRoot}/packages/**/*",
         {

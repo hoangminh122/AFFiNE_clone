@@ -10,7 +10,6 @@
     "./*": "./src/*"
   },
   "dependencies": {
-    "@affine-test/fixtures": "workspace:*",
     "@affine/component": "workspace:*",
     "@affine/debug": "workspace:*",
     "@affine/electron-api": "workspace:*",
